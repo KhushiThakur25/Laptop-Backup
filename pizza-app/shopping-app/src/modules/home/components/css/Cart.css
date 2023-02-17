@@ -1,0 +1,8 @@
+.Cart-place{
+    width: 25vw;
+    height: 95vh;
+    background-color: rgb(167, 167, 11);
+    position: fixed;
+    right: 0;
+    overflow-y: scroll;
+}
